@@ -40,6 +40,8 @@
 //     cy.get('button[class="Button_button__3COUz Button_primary__Uwo1K"][data-test="button"]')
 //  })
 
+// Comment 
+
 
  it('Using Get with Find and Eq', ()=> {
     cy.visit('https://next.privat24.ua/deposit/open') 
